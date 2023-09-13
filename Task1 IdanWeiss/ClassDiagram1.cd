@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task1_IdanWeiss.Animal">
+    <Position X="13.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAEIBAQAAkAEYAAAAAAAAEAABEAACEAAAAAAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Bird">
+    <Position X="13.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAABAAAIAIgAEAEAAAiAAAAIAAAAAAgClAAAAAAA=</HashCode>
+      <FileName>Bird.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task1_IdanWeiss.Cow">
+    <Position X="16" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAGAAQAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Crocodile">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAEAAAAAABAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Crocodile .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Hipo">
+    <Position X="19.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAQAAAAEAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Mammal">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAEAEAAACAEAAAAAAQAAACEIIAEAAA=</HashCode>
+      <FileName>Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Reptile">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAEAEAgCAAAAAAAAAAAAACMAAIAAAA=</HashCode>
+      <FileName>Reptile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task1_IdanWeiss.Snake">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAEAAAAAAAEAAAAAAAAQAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Python">
+    <Position X="10.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAAAgAAIAAA=</HashCode>
+      <FileName>Python.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Hawk">
+    <Position X="13.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAQAAEAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hawk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Park">
+    <Position X="21.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAEAAAAAQAAAAAAAEAAAA=</HashCode>
+      <FileName>Park.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task1_IdanWeiss.Program">
+    <Position X="23" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAABAAAAAAAAAQAAAAAAAAAAAABBAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Task1_IdanWeiss.IBird" Collapsed="true">
+    <Position X="12.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAA=</HashCode>
+      <FileName>IBird.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task1_IdanWeiss.IReptile" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>IReptile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
